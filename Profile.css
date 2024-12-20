@@ -1,0 +1,86 @@
+div{
+    /* background-color: rgb(216, 134, 10); */
+}
+
+#usericon{
+    background-color: aqua;
+    height: 100px;
+}
+
+text.t1{
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+}
+text.t2{
+    /* background-color: rgb(219, 219, 219); */
+    color: rgb(150, 150, 150);
+    font-size: 20px;
+}
+img{
+    /* src:url('prof.png'); */
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    /* alt: ProfilePhoto; */
+}
+.s1{
+    background-color: aquamarine;
+}
+/* article section begins here */
+.stats{
+    width: 80%;
+    background-color: aquamarine;
+    display: block;
+}
+.statstext{
+    padding-top: 0%;
+    text-align: center;
+    font-size: 40px;
+    /* display: inline-block; */
+}
+h3{
+    background-color: chocolate;
+    font-size:30px;
+    width: 20%;
+    height: 500px;
+    /* display: inline; */
+}
+#topmiddlesection{
+    background-color: chartreuse;
+    margin-left: 320px;
+    width: 50%;
+}
+article{
+    background-color: blue;
+    width: 80%;
+    /* display: inline; */
+}
+aside{
+    float: right;
+    width: 20%;
+    height: 40%;
+    /* display: inline; */
+}
+/* progress stats */
+svg{
+    /* background-color: black; */
+    float: right;
+    border: 3px solid;
+    border-color:black ;
+    margin-top: -90px;
+    margin-right: -260px;
+}
+circle.c1{
+    cx: 125;
+    cy: 120;
+    r: 100;
+    fill: grey;
+}
+circle.c2{
+    cx: 125;
+    cy: 120;
+    r: 80;
+    fill: rgb(255, 255, 255);
+    
+}
